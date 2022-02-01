@@ -275,7 +275,7 @@ $lista_grupo = pg_query($conexao,$sql) or die("Erro");
 					89690-000</p>
 				</div>
 				<div id="autoria">
-					<p>Grantok - Todos os direitos reservados | Copyright 2018 <a href="https://www.linkedin.com/in/maurício-spagnol-4881b2124/">Maurício Spagnol</a><b>Desenvolvido por: </b></p>
+					<p>Grantok - Todos os direitos reservados | Copyright 2018 <a href="https://criasystem.tech/">Maurício Spagnol</a><b>Desenvolvido por: </b></p>
 				</div>
 			</div>
 		</footer>

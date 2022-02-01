@@ -1,0 +1,38 @@
+[01-Feb-2022 16:44:12 UTC] PHP Warning:  Undefined array key 4 in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 121
+[01-Feb-2022 16:44:12 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 270
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line0" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line0" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line0" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line1" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line1" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line1" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line2" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line2" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line2" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line3" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line3" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line3" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line4" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 71
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line4" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 72
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Undefined array key "line4" in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 73
+[01-Feb-2022 16:45:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php:73) in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto_controller.php on line 25
+[01-Feb-2022 16:46:20 UTC] PHP Warning:  Undefined array key 4 in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 121
+[01-Feb-2022 16:46:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 270
+[01-Feb-2022 16:48:06 UTC] PHP Warning:  Undefined array key 4 in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 121
+[01-Feb-2022 16:48:32 UTC] PHP Warning:  Undefined array key 4 in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 121
+[01-Feb-2022 16:49:24 UTC] PHP Warning:  Undefined array key 4 in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\admin\produto.php on line 121

@@ -3,8 +3,8 @@
                     <nav>
                         
                         <p class="copyright text-center">
-                            © 2021
-                            <a href="https://www.linkedin.com/in/maurício-spagnol-4881b2124/">Maurício Spagnol</a>
+                            © 2022
+                            <a href="https://criasystem.tech/">Maurício Spagnol</a>
                         </p>
                     </nav>
                 </div>

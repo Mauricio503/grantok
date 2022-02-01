@@ -41,10 +41,11 @@
 		?>
 		<a href="#" class="scrollToTop"></a>
 		<section>
-			<img id="logo-empresa" src="img/logo-maior.png" alt="logo empresa">
+			<img id="logo-empresa" src="/img/logo.jpg" alt="logo empresa">
 			<p id="texto-empresa">&nbsp;&nbsp;&nbsp;&nbsp;A Grantok possui mais de 10 anos de tradição, dedicação e comprometimento com a qualidade e o meio ambiente, oferencendo produtos extremamente duráveis que garatem a segurança e satisfação de cada consumidor, ajudando a tranformar sonhos em grandes histórias de vida.<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;Nosso produtos são confeccionados com materiais resistentes e matéria-prima certificada, em diversas cores, formatos e tamanhos, adaptando-se as necessidades do mercado.</p>
 		</section>
+		<div style="height: 600px;"></div>
 		<footer>
 			<div id="footer">
 				<div id="contato">
@@ -64,7 +65,7 @@
 					89690-000</p>
 				</div>
 				<div id="autoria">
-					<p>Grantok - Todos os direitos reservados | Copyright 2018 <a href="https://www.facebook.com/mauricio.spagnol.9">Maurício Spagnol</a><b>Desenvolvido por: </b></p>
+					<p>Grantok - Todos os direitos reservados | Copyright 2018 <a href="https://criasystem.tech/">Maurício Spagnol</a><b>Desenvolvido por: </b></p>
 				</div>
 			</div>
 		</footer>

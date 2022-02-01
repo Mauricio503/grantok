@@ -39,13 +39,18 @@ function repre(i){
 		document.getElementById('nome-repre-atual').innerHTML = 'FRACARO';
 		document.getElementById('telefone-repre-atual').innerHTML = '(45) 3226-4679';
 		document.getElementById('e-mail-repre-atual').innerHTML = 'fracaro.rep@uol.com.br';
-	} else if (i==11){
-		document.getElementById('nome-repre-atual').innerHTML = 'RECROL';
-		document.getElementById('telefone-repre-atual').innerHTML = '(43) 3256-3830';
-		document.getElementById('e-mail-repre-atual').innerHTML = 'recrol@recrol.com.br';
 	} else if (i==12){
 		document.getElementById('nome-repre-atual').innerHTML = 'GRANTOK';
 		document.getElementById('telefone-repre-atual').innerHTML = '(49) 3434-0493 / 3434-0605';
 		document.getElementById('e-mail-repre-atual').innerHTML = 'atendimento@grantok.com.br';
+	}else if (i==13){
+		document.getElementById('nome-repre-atual').innerHTML = 'Geovani de Carvalho';
+		document.getElementById('telefone-repre-atual').innerHTML = '(55) 9 9656-2747';
+		document.getElementById('e-mail-repre-atual').innerHTML = 'geovanicarvalhorepresentacoes@gmail.com';
+	}
+	else if (i==14){
+		document.getElementById('nome-repre-atual').innerHTML = 'Fabricio';
+		document.getElementById('telefone-repre-atual').innerHTML = '(51) 9 8284-2260';
+		document.getElementById('e-mail-repre-atual').innerHTML = 'fffvt@terra.com.br';
 	}
 }

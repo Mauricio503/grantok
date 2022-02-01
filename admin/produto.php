@@ -267,7 +267,11 @@ if (isset($_GET['acao']) && ($_GET['acao'] == 'editar')){
                                             //]]>
                                         </script>
                                         <textarea name="descricao" id="descricao" style="width:70%;height:200px;">
-                                         <?php echo htmlspecialchars($row[2]); ?>
+                                         <?php 
+                                         if($row[2] != null){
+                                            echo htmlspecialchars($row[2]);
+                                         }
+                                        ?>
                                         </textarea>
 
                                     <script>

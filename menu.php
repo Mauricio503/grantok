@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 			<div id="telefone">
-            <a href="admin/login.php"><img src="/img/outline_lock_black_24dp.png" style="width:15px;"/></a> (49) 3434-0605 - 3434-0493
+            <a href="admin/login.php"><img src="/img/cadeado.png" style="width:15px;"/></a> (49) 3434-0605 - 3434-0493
 			</div>
 			<!--menu responsivo para celular-->
 			<input type="checkbox" id="control-nav" />
