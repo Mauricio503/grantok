@@ -1,0 +1,21 @@
+[01-Feb-2022 10:59:18 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 11:00:00 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: could not translate host name &quot;https://grantok.com.br&quot; to address: Unknown host in C:\Users\Mauricio Spagnol\Desktop\grantok\grantok-master\conexao.php on line 2
+[01-Feb-2022 11:09:15 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;grantokc_postgres&quot; in C:\Users\Mauricio Spagnol\Desktop\grantok\grantok-master\3DCarousel\index.php on line 4
+[01-Feb-2022 11:09:20 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 11:10:51 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 11:24:47 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:04:43 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:04:53 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  database &quot;grantok&quot; does not exist in C:\Users\Mauricio Spagnol\Desktop\grantok\grantok-master\3DCarousel\index.php on line 2
+[01-Feb-2022 13:05:54 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:07:03 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:08:45 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:10:31 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:10:34 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  database &quot;grantok&quot; does not exist in C:\Users\Mauricio Spagnol\Desktop\grantok\grantok-master\3DCarousel\index.php on line 2
+[01-Feb-2022 13:10:56 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:19:41 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:20:49 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:27:43 UTC] PHP Warning:  Module "mysqli" is already loaded in Unknown on line 0
+[01-Feb-2022 13:27:49 UTC] PHP Warning:  include(../conexao.php): Failed to open stream: No such file or directory in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\3DCarousel\index.php on line 6
+[01-Feb-2022 13:27:49 UTC] PHP Warning:  include(): Failed opening '../conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\3DCarousel\index.php on line 6
+[01-Feb-2022 13:30:23 UTC] PHP Warning:  include(/../conexao.php): Failed to open stream: No such file or directory in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\3DCarousel\index.php on line 6
+[01-Feb-2022 13:30:23 UTC] PHP Warning:  include(): Failed opening '/../conexao.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\Mauricio Spagnol\workspace\workGrantok\grantok\3DCarousel\index.php on line 6

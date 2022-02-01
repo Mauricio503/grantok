@@ -20,7 +20,7 @@ if (isset($_GET['acao']) && ($_GET['acao'] == 'editar')){
     $resultado = pg_query($conexao,$sql) or die("Erro");
     $resultadoLigacao = pg_query($conexao,$sqlLigacao) or die("Erro");
     $row = pg_fetch_row($resultado);
-    $tamanho_lista = pg_num_rows($resultadoLigacao);
+    $tamanho_lista = sizeof($row); 
 }
 ?>
 <!DOCTYPE html>
@@ -82,8 +82,7 @@ if (isset($_GET['acao']) && ($_GET['acao'] == 'editar')){
                                 <div class="card-body all-icons">
                                     <div class="col-md-12">
                                         <input type="text" class="form-control" placeholder="Titulo"
-                                            aria-describedby="basic-addon1" name="titulo" value="<?=$row[1];?>"
-                                            required>
+                                            aria-describedby="basic-addon1" name="titulo" value="<?=$row[1];?>">
                                            
                                     </div>
                                     <h5 style="padding-top:15px">Grupos</h5>
@@ -100,9 +99,9 @@ if (isset($_GET['acao']) && ($_GET['acao'] == 'editar')){
                                         while ($rowg = pg_fetch_row($lista_grupo)) {
                                             echo "<td>";
                                             if($rowg[0] == $row[3]){
-                                                echo "<input type='radio' class='btn-check' checked name='options' id='option$rowg[0]' autocomplete='off' required>";
+                                                echo "<input type='radio' class='btn-check' checked name='options' id='option$rowg[0]' autocomplete='off'>";
                                             }else{
-                                                echo "<input type='radio' class='btn-check' name='options' id='option$rowg[0]' autocomplete='off' required>";
+                                                echo "<input type='radio' class='btn-check' name='options' id='option$rowg[0]' autocomplete='off'>";
                                             }
                                             
                                             echo "<label class='btn btn-outline-success' style='color:black;margin-left: 10px;' onclick='addGrupo($rowg[0])' for='option$rowg[0]'>$rowg[1]</label>";
